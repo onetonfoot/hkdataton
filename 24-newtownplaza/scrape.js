@@ -31,7 +31,10 @@ function sleep(ms) {
         return items
     })
 
-    fs.appendFileSync('newtownplaza.json',JSON.stringify(items))
+    for (item of items) {
+        fs.appendFileSync('newtownplaze.json' ,JSON.stringify(item) + '\n')
+    }
+
     await browser.close();
 
 })();

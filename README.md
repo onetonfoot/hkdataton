@@ -1,11 +1,10 @@
 # Hkdataton
 
-Various different langauges have been used, bellow are breif install instructions.
+Various different langauges have been used, bellow are breif install instructions and the logic behind using each.
 
 ## Python
 
 Install pandas via anaconda. Bellow are the libraies used 
-
 
 * Scrapy - Web scraping framework
 * Pandas - Data for data cleaning
