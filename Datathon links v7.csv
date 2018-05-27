@@ -1,0 +1,58 @@
+Link ID,Category,Topic,Difficulty,Link
+1,Best Sellers,Real time top 50 travel destinations in Hong Kong on TripAdvisor ,1,https://en.tripadvisor.com.hk/Attractions-g294217-Activities-Hong_Kong.html#ATTRACTION_SORT_WRAPPER
+2,Best Sellers,Yearly top 25 travel destinations on trip adviser,1,https://en.tripadvisor.com.hk/TravelersChoice-Destinations
+3,Best Sellers,Weekly top 10 LIKE products of Taobao,1,https://top.taobao.com/?spm=a1z5i.1.2.1.hUTg2J&topId=HOME
+4,Best Sellers,Hourly top 100 best sellers on amazon,1,https://www.amazon.com/Best-Sellers/zgbs
+5,Demographics,HK semi-yearly population size by age group,1,https://www.censtatd.gov.hk/hkstat/sub/sp150.jsp?tableID=002&ID=0&productType=8
+6,Environment,HK 9 days weather forecast by district,1,http://maps.weather.gov.hk/ocf/index_uc.html
+7,Environment,HK hourly air pollution rate by district ,1,http://www.aqhi.gov.hk/tc.html
+8,Environment,HK historical hourly rain by district,1,http://www.weather.gov.hk/wxinfo/rainfall/rf_record_uc.shtml?form=rfrecordc&Selmonth=05&Selday=08&Selhour=16
+9,Environment,HK UV index,1,http://www.weather.gov.hk/wxinfo/uvindex/chinese/cdailymeanmax.htm
+10,Price Watch,Real time price watch of 藥妝護理 of HKTV Mall,1,https://www.hktvmall.com/hktv/zh/beautynhealth?category=AA13500000000
+11,Searching Key Words,Google Daily Hot keywords in Hong Kong,1,https://trends.google.com/trends/hottrends#pn=p10
+#12,Shopping Malls,Fashion Walk,1,http://fashionwalk.com.hk/en/shoplist
+##13,Shopping Malls,"K11, Tsim Sha Tsui",1,http://hk.k11.com/list/shop
+#14,Shopping Malls,"International Finance Centre, Central",1,http://ifc.com.hk/en/mall/shopping/
+#15,Shopping Malls,"Cityplaza, Taikoo Shing",1,http://www.cityplaza.com/en/shopping.aspx?sortby=alpha&criteria=
+#16,Shopping Malls,"Citywalk, Tsuen Wan",1,http://www.citywalk.com.hk/site/mall_dir
+##17,Shopping Malls,"Domain, Yau Tong",1,http://www.domain-mall.hk/index.php/shopping-directory
+18,Shopping Malls,"East Point City, Hang Hau",1,http://www.eastpointcity.com.hk/en/shopping/
+#19,Shopping Malls,"Festival Walk, Kowloon Tong",1,http://www.festivalwalk.com.hk/en/shopping/index.php
+20,Shopping Malls,"Harbour City, Tsim Sha Tsui",1,http://www.harbourcity.com.hk/en/shop-dine/shop/
+21,Shopping Malls,"Langham Place, Mong Kok",1,http://www.langhamplace.com.hk/en/#/shopping/guide/grid
+#22,Shopping Malls,"Megabox, Kowloon Bay",1,http://www.megabox.com.hk/shopping_directory.php?mid=&smc=S&scid=4&sid=
+23,Shopping Malls,"Mira Mall, Tsim Sha Tsui",1,http://www.miraplace.com.hk/shopping-directory/
+#24,Shopping Malls,"New Town Plaza, Sha Tin",1,http://www.newtownplaza.com.hk/shopping
+###25,Shopping Malls,"Pacific Place, Admiralty",1,http://www.pacificplace.com.hk/en/Style/Directory.aspx
+#26,Shopping Malls,"Times Square, Causeway Bay",1,http://www.timessquare.com.hk/eng/shopping_list.php
+#27,Shopping Malls,"Hysan Place, Causeway Bay",1,https://hp.leegardens.com.hk/#!/shopping
+#28,Shopping Malls,"Elements, Jordan",1,https://www.elementshk.com/eng/elements/shopInfo/list
+29,Shopping Malls,"EMAX, Kowloonbay International Trade & Exhibition Centre, Kowloon Bay",1,https://www.emaxhk.com/newshops.html
+30,Shopping Malls,"apm, Millennium City 5, Kwun Tong",1,https://www.hkapm.com.hk/shop/
+31,Shopping Malls,Link,1,https://www.linkhk.com/tc/shop/?cid=&did=&scid=
+#32,Shopping Malls,"Sogo Hong Kong, Causeway Bay",1,https://www.sogo.com.hk/cwb/en/shopping-directory/shop-list.php
+33,Shopping Malls,"Telford Plaza, Kowloon Bay",1,https://www.telford-plaza.com/eng/tp/shopping/list?pageNo=7&type=6
+34,Social Media,Weibo real time top 50 topic,1,https://s.weibo.com/top/summary
+35,Social Media,HK celebrity/KOL fans rate,1,https://www.socialbakers.com/statistics/facebook/pages/total/hong-kong/celebrities/
+36,Society,HK Circle K Stores current Location ,1,http://www.circlek.hk/store
+37,Society,Daily job vacancy in  Jobsdb,1,https://hk.jobsdb.com/hk
+38,Transport,Real time LWB HK bus ETA,1,http://www.lwb.hk/tc/eta_enquiry.html
+39,Best Sellers,Monthly top 10 travel destinations on 馬蜂窩 by cities,2,http://www.mafengwo.cn/sales/0-10189-M10819P台湾-0-0-0-0-0.html
+40,Best Sellers,Real time top 50 bestsellers of Taobao by category,2,https://top.taobao.com/index.php?spm=a1z5i.3.3.2.h5dhRc&topId=TR_FS&leafId=50000671
+41,Leasing and Renting,HK housing renting rate by district,2,http://hk.centanet.com/findproperty/zh-HK/Home/SearchResult?posttype=R&src=F
+#42,Other Media,HK movie daily box office rate by districts,2,https://movie.yahoo-leisure.hk/cinema/details/20
+43,Price Watch,Real time price watch of hotels in 馬蜂窩 ,2,http://www.mafengwo.cn/hotel/10189/
+X_44,Price Watch,Real time price watch of 電腦 in JD.com,2,https://search.jd.com/Search?keyword=電腦&enc=utf-8
+45,Price Watch,Real time price watch of Taobao,2,https://s.taobao.com/search?q=家具&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20180524&ie=utf8
+46,Price Watch,"Daily price watch of product in Pricehk.com (only daily prices, no other information needed)",2,https://www.price.com.hk/zone.php?z=1
+47,Price Watch,"Daily price watch of supermarket, such as ParknShop/ Welcome",2,https://www3.consumer.org.hk/pricewatch/supermarket/index.php?filter1=009
+48,Shopping Malls,"Citygate Outlets, Tung Chung",2,https://www.citygateoutlets.com.hk/en/brands.aspx
+49,Shopping Malls,"The Landmark, Central",2,https://www.landmark.hk/en/sitemap
+50,Social Media,China celebrity/KOL fans rate,2,https://www.socialbakers.com/statistics/facebook/pages/total/china/celebrities/
+51,Stock,"Historical Stock Index, including HengSeng Stock Index, Nasdaq Index, 沪深300指數, 上证50指數, China A50 and Nakkei 225",2,https://www.investing.com/indices/hang-sen-40
+52,Transport,Daily flight number by cities,2,http://freeflightstatus.blogspot.hk
+#53,Best Sellers,weekly top 30 best sellers of openrice,3,https://www.openrice.com/zh/hongkong/chart/best-rating
+javascript#54,Price Watch,Real time price watch in Hong Kong of Airbnb ,3,https://www.airbnb.com.hk/s/Hong-Kong/homes?adults=1&children=0&infants=0&source=hdr&place_id=ChIJByjqov3-AzQR2pT0dDW0bUg&refinement_paths%5B%5D=%2Fhomes&allow_override%5B%5D=&s_tag=KVDoTFax
+55,Price Watch,Real time price watch of electronics in Amazon,3,https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=electronics&rh=i%3Aaps%2Ck%3Aelectronics&ajr=0
+56,Transport,Real time flight number by cities,3,"https://www.flightradar24.com/22.28,114.15/7"
+#57,Transport,Real time HK NWS bus ETA,5,https://mobile.nwstbus.com.hk/nwp3/?f=1&ds=ETA&l=0
